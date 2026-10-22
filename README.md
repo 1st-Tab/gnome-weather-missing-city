@@ -84,7 +84,7 @@ installed, for example from Flathub.
 ## Needs
 
 - bash
-- GNOME Weather 42 or newer (libgweather 4)
+- GNOME Weather 42 or newer (libgweather 4)   
 - `gjs` for the native version (it comes with GNOME). The Flatpak version
   already ships everything it needs.
 
@@ -93,5 +93,5 @@ installed, for example from Flathub.
 A fairly big town (around 100,000 people or more) probably belongs in
 GNOME's own list, for everyone. Here is
 [how to add it](https://gitlab.gnome.org/GNOME/libgweather/-/blob/main/doc/adding-locations.md)
-in [gweather-locations](https://gitlab.gnome.org/GNOME/gweather-locations).
+in [gweather-locations](https://gitlab.gnome.org/GNOME/gweather-locations) for [gnome-weather](https://gitlab.gnome.org/GNOME/gnome-weather) and other GNOME apps.
 For everywhere else, there is this script.
